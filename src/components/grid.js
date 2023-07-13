@@ -42,7 +42,7 @@ export default function Grid() {
             <p>
               Our community partners are crucial to our success, as they are our
               “boots on the ground” and provide us with valuable feedback on
-              each student's progress.
+              each student&apos;s progress.
             </p>
           </article>
 
