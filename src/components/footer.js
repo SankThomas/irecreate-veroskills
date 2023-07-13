@@ -7,7 +7,7 @@ export default function Footer() {
     <>
       <footer className="border-t border-slate-700 py-8 flex flex-wrap gap-4 justify-between items-center">
         <div>
-          <Image src={logo} width={150} height={100} />
+          <Image src={logo} width={150} height={100} alt="logo" />
         </div>
 
         <ul className="flex gap-8">

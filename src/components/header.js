@@ -8,7 +8,7 @@ export default function Header() {
     <>
       <header className="flex items-center justify-between">
         <div>
-          <Image src={logo} width={150} height={100} />
+          <Image src={logo} width={150} height={100} alt="logo" />
         </div>
 
         <nav className="hidden lg:block">

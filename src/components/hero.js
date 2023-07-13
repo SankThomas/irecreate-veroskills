@@ -19,6 +19,7 @@ export default function Hero() {
                 width={50}
                 height={50}
                 className="inline -mt-8"
+                alt="stars"
               />
             </span>{" "}
             <br /> software engineer.
@@ -35,7 +36,7 @@ export default function Hero() {
         </article>
 
         <article>
-          <Image src={hero} width={1200} height={1200} />
+          <Image src={hero} width={1200} height={1200} alt="" />
           <p className="text-white text-lg lg:text-3xl font-bold my-8 text-center">
             At VeroSkills, our mission is to address the global tech talent
             deficit by providing underserved individuals with training in

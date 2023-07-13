@@ -25,7 +25,7 @@ export default function Grid() {
           </article>
 
           <article className="flex-1">
-            <Image src={grid1} width={700} height={700} />
+            <Image src={grid1} width={700} height={700} alt="" />
           </article>
         </div>
 
@@ -47,7 +47,7 @@ export default function Grid() {
           </article>
 
           <article className="flex-1">
-            <Image src={grid2} width={700} height={700} />
+            <Image src={grid2} width={700} height={700} alt="" />
           </article>
         </div>
 
@@ -63,7 +63,7 @@ export default function Grid() {
           </article>
 
           <article className="flex-1">
-            <Image src={grid3} width={700} height={700} />
+            <Image src={grid3} width={700} height={700} alt="" />
           </article>
         </div>
       </section>

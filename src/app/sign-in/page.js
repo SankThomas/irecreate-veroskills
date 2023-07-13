@@ -73,7 +73,7 @@ export default function Page() {
         </article>
 
         <article className="hidden lg:block">
-          <Image src={hero} width={1400} height={900} />
+          <Image src={hero} width={1400} height={900} alt="home" />
         </article>
       </section>
     </>
